@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+<title>Milton Glaser</title>
+    </head>
+
+   <!-- Internal Style Sheet -->
+
+<style>
+
+* {
+    margin: 0;
+    padding:0;
+    font-size:100%;
+    background-color: black;
+}
+    
+    
+heading 
+    {padding: 50px;}
+    
+
+.navigation li 
+    
+{display: inline;
+  margin: auto auto}
+    
+
+    
+nav ul 
+    { text-align: center; 
+    list-style-type: none;}
+
+nav ul li img 
+    {display: inline;
+    margin: 5px;
+    list-style-type: none; }
+
+nav 
+    {border-top: 1px solid #191919;
+    border-bottom: 1px solid #191919;
+    background-color: black;
+    padding: 25px;}
+
+a 
+    {text-decoration: none;
+    color: #feffe1;;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-style:bold;
+    margin: 20px;}
+          
+a:hover 
+    { color: #ADADAD}
+    
+
+
+.navigation
+    {margin: 20px;}
+    
+    
+div {color: white;
+    padding: 10px 120px;
+    line-height: 1.5em;}
+    
+h1 {color: #d88e37;
+    padding: 40px;
+    font-style: italic ;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 5px}
+    
+h2 {color: #668a8a;
+    padding: 40px;
+    font-style: italic ;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 5px}
+    
+
+.image {display: block;
+margin: 10px auto;}
+
+tr {margin: 20px;}
+
+.break {margin: 0px;}
+    
+    </style>
+    
+<body>   
+    
+
+<header><img src ="http://imgur.com/rA6w7cm.jpg"; width: 300px;></img></header>
+
+<img src="http://i.imgur.com/YQoSt7D.jpg"></img>
+<table border-top=0; style="width:100%" margin: 20px;>
+  <tr>
+    <td><a href="#intro"><img src="http://i.imgur.com/Ym5BCST.jpg"               onmouseover="this.src='http://i.imgur.com/Aon6hSH.jpg'" onmouseout="this.src='http://i.imgur.com/Ym5BCST.jpg'"/></a></li></td>
+    <td><a href="#miltonglaserinc"><img src="http://i.imgur.com/jIEmxtJ.jpg"               onmouseover="this.src='http://i.imgur.com/2WAT7YL.jpg'" onmouseout="this.src='http://i.imgur.com/jIEmxtJ.jpg'"/></a></td> 
+  </tr>
+</table>
+<img src="http://i.imgur.com/YQoSt7D.jpg"></img>
+
+<div><img class="image" src= "http://i.imgur.com/nYPsVzS.jpg"></img></div>
+
+<H1 id="intro">Introduction to Milton Glaser </H1>
+<div class="intro">Milton Glaser is an American Graphic Designer who was born in New York City in June of 1929.  His work revolutionised the way Graphic Design was viewed and he is one of the most celebrated Graphic Designers in the US seen as an apotheosis of American design during his time.  Not only was Glaser nominated for the Lifetime Achievement award of the Cooper Hewitt National Design Museum in 2004 and the Fulbright Association award in 2011 but he was also the first Graphic Design to receive the National Medal of Arts award in 2009 by Barack Obama.  He went to Manhattan’s High School of Art and Music (Now known as Fiorello H. LaGuardia High School of Music, Art and Performing Arts).  He graduated from the Cooper Union in 1951 and later graduated from The Academy of Fine Arts in Bologna via a Fulbright Scholarship.  </div>
+     
+<div><img class="image" src= "http://i.imgur.com/YX79pHj.jpg"></img></div>
+
+<H2 id="miltonglaserinc">Milton Glaser Inc. </H2>
+<div class="intro">In 1974 Glaser founded Milton Glaser, Inc, a graphic design company who are still producing work for a number of highly established corporations over a variety of design disciplines including comporate identities and branding, exterior and interior design, product design and packaging design.  They work with a minimal group of four people, Sue Walsh, Jee-eun Lee, and Molly Watman) and a studio manager Scarlett Rigby.  The company has clients such as the Brooklyn Brewery, JetBlue, Target, Coach, Trump, Eleven Madison Park, Alessi, Juilliard, the Rubin Museum of Art, Theatre for a New Audience, the School of Visual Arts, Bread Alone, ADV Magazine's Philly Gold Awards, Philip Roth and Clay Felker.  </div>
+     
+
+</body> 
