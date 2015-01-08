@@ -95,6 +95,27 @@ h1 {color: #d88e37;
     text-align: center;
     font-size: 20px;
     letter-spacing: 5px}
+
+.itsnotwarming{color: #668a8a;
+    padding: 40px;
+    font-style: italic ;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 5px}
+
+.conc{color: #80392F;
+    padding: 40px;
+    font-style: italic ;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 5px}
+
+.bibliography{color: #6F79BC;
+    padding: 40px;
+    font-style: italic ;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 5px}
     
 
 .image {display: block;
@@ -113,6 +134,12 @@ blockquote {padding: 50px;
 text-indent: 50px;
 color: #AAA;
 font-style: italic;}
+
+ul {list-style-type: none;}
+
+ul li {margin: 10px;}
+
+a {color: inherit}
 
     </style>
     
@@ -226,6 +253,52 @@ Milton Glaser was president and design director of the New York Magazine until t
 <div class="intro">
 Another firm client of Glaser’s was the SVA, New York City from which he owns an honorary doctorate.  Milton worked for the School of Visual Arts for over 50 years and on top of this feat he is still the acting board member since he received this role in 1961.  In Milton’s words the school work helps him focus and prevents senility.  The school itself has built an impeccable reputation as one of the best design schools within the world.  Within his time in the School of Visual Arts Glaser designed many promotional aspects of the school’s brand image.  After September 11th Glaser produced a poster that was distributed by the students of the SVA and became an important piece of the healing process after the tragic events.
 </div>
+
+<H2 class="itsnotwarming">It's not warming, it's dying.  </H2>
+
+<div class="intro">
+In 2014 Glaser designed a campaign in order to battle the issue of Global Warming with the slogan ‘The Earth is not warming, it’s dying’.  Milton argued that  ‘There is no more significant issue on earth than its survival… The questions is, 'how can anyone not be involved?'.  For this campaign he created a simplistic design, a circle representing the earth with a black gradient over it representing pollution.  The glow in the dark colour behind the black obscurity represents the limited life that will be left if we continue to poison our world.  Glaser’s idea was that if half the people in the universe wore a badge then even the other half would be forced to do something about global warming.  Social networking took a huge part in the scheme as people were sharing the images of them wearing their badges with their friends.  The School of Visual Arts also took a part in it erecting a large poster on the side of their building.  They also handed out free badges on campus to their students in order to support the cause. 
+</div>
+
+<div><img class="image" src= "http://www.wnyc.org/i/620/930/l/80/1/miltonglaserandbanner.jpg"></img></div>
+
+
+<div class="intro">Despite Milton Glaser’s positive approach to the issue that has been affecting our planet and our lives the campaign received a lot of criticism.  An article on Grist.com suggested that saying the world is dying is a huge error as the world isn’t dying, the people are and in addiction to this the term ‘Global Dying’ would keeps the problem fairly anonymous.   </div>
+
+<H2 class="conc">Conclusion </H2>
+
+
+<div class="intro">It is clear from Glaser’s work that he has a vast interest in his home state of New York especially New York city as that is where he was brought up.  His passion for his home city is shown through his ‘I Love NY’ piece , one of his most famous pieces and one of the most iconic graphics within graphic design history.  His empathy for the victims of 9/11 showed his compassion towards people whilst his input into fighting global warming showed his care for the planet.  He has worked with a variety of different companies and founded many publications including the Pushpin Almanack, The Pushpin Graphic and The New York Magazine.  Although receiving a lot of positive feedback Glaser has also received criticism in some areas of his work however most his word has been widely appreciated throughout the world.  He did however mention in an interview that it saddens him that people only recognise his name for his ‘I love NY’ symbol especially when he has done work for over 400 clients.   Overall his work has had a large affect on community and his fame has spread worldwide.</div>
+
+
+<H2 class="bibliography">Bibloiography</H2>
+
+<div class="intro">
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Milton_Glaser">http://en.wikipedia.org/wiki/Milton_Glaser</a></li>
+<li><a href="http://www.miltonglaser.com/milton/#1">http://www.miltonglaser.com/milton/#1</li>
+<li><a href="http://www.art-directory.info/design/milton-glaser-1929/">http://www.art-directory.info/design/milton-glaser-1929/">http://www.art-directory.info/design/milton-glaser-1929/">http://www.art-directory.info/design/milton-glaser-1929/</li>
+<li><a href="http://www.miltonglaser.com/the-work/c:posters/">http://www.miltonglaser.com/the-work/c:posters/">http://www.miltonglaser.com/the-work/c:posters/">http://www.miltonglaser.com/the-work/c:posters/</li>
+<li><a href="http://en.wikipedia.org/wiki/I_Love_New_York">http://en.wikipedia.org/wiki/I_Love_New_York</li>
+<li><a href="http://en.wikipedia.org/wiki/Mary_Wells_Lawrence">http://en.wikipedia.org/wiki/Mary_Wells_Lawrence</li>
+<li><ahref="https://www.google.co.uk/searchq=i+love+ny+copies&espv=2&biw=1680&bih=803&source=lnms&tbm=isch&sa=X&ei=vxWtVKGDHMWa7AbGj4HIAw&ved=0CAcQ_AUoAg#tbm=isch&q=i+love+ny+style+">https://www.google.co.uk/searchq=i+love+ny+copies&espv=2&biw=1680&bih=803&source=lnms&tbm=isch&sa=X&ei=vxWtVKGDHMWa7AbGj4HIAw&ved=0CAcQ_AUoAg#tbm=isch&q=i+love+ny+style+</li>
+<li><a href="https://www.youtube.com/watch?v=dY4CMyFXnzY">https://www.youtube.com/watch?v=dY4CMyFXnzY</li>
+<li><a href="http://en.wikipedia.org/wiki/Bob_Dylan">http://en.wikipedia.org/wiki/Bob_Dylan</li>
+<li><a href="http://www.101bananas.com/art/dylan.html">http://www.101bananas.com/art/dylan.html</li>
+<li><a href="http://www.smithsonianmag.com/arts-culture/sign-of-the-times-bob-dylan-95420/?no-ist">http://www.smithsonianmag.com/arts-culture/sign-of-the-times-bob-dylan-95420/?no-ist</li>
+<li><a href="http://en.wikipedia.org/wiki/New_York_%28magazine%29#1960s">http://en.wikipedia.org/wiki/New_York_%28magazine%29#1960s</li>
+<li><a href="http://nymag.com/">http://nymag.com/</li>
+<li><a href="http://www.miltonglaser.com/case-studies/803/new-york-magazine/">http://www.miltonglaser.com/case-studies/803/new-york-magazine/</li>
+<li><a href="http://en.wikipedia.org/wiki/Push_Pin_Studios">http://en.wikipedia.org/wiki/Push_Pin_Studios</li>
+<li><a href="https://blogs.princeton.edu/graphicarts/2011/10/push_pin.html">https://blogs.princeton.edu/graphicarts/2011/10/push_pin.html</li>
+<li><a href="http://en.wikipedia.org/wiki/Almanac">http://en.wikipedia.org/wiki/Almanac</li>
+<li><a href="http://www.pushpininc.com/pushpingraphic.html">http://www.pushpininc.com/pushpingraphic.html</li>
+<li><a href="http://www.youthedesigner.com/graphic-design-tips/the-push-pin-way-the-interdisciplinary-work-of-seymour-chwast/">http://www.youthedesigner.com/graphic-design-tips/the-push-pin-way-the-interdisciplinary-work-of-seymour-chwast/</li>
+<li><a href="http://news.yahoo.com/blogs/newsmakers/taxi-ride-led-milton-glaser-famous-heart-ny-190214555.html">http://news.yahoo.com/blogs/newsmakers/taxi-ride-led-milton-glaser-famous-heart-ny-190214555.html</li>
+<li><a href="http://www.dezeen.com/2014/08/04/milton-glaser-its-not-warming-its-dying-climate-change-campaign/">http://www.dezeen.com/2014/08/04/milton-glaser-its-not-warming-its-dying-climate-change-campaign/</li>
+<li><a href="http://grist.org/climate-energy/no-climate-change-wont-kill-the-planet-but-itll-kill-plenty-of-people">http://grist.org/climate-energy/no-climate-change-wont-kill-the-planet-but-itll-kill-plenty-of-people</li></div>
+</ul>
+
 
 </body> 
 </html>
