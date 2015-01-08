@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+=<!DOCTYPE html>
 <html>
 <head>
 	<meta charset="utf-8" />
@@ -85,6 +85,9 @@ margin: 10px auto;}
 tr {margin: 20px;}
 
 .break {margin: 0px;}
+
+.image {width: 300px;
+margin: 30px auto;}
     
     </style>
     
@@ -118,41 +121,44 @@ A modest man, in an interview with New York Magazine he described his work as si
 In 1974 Glaser founded Milton Glaser, Incorporated known as Milton Glaser, Inc, a graphic design company who are still producing work for a number of highly established corporations over a variety of design disciplines including comporate identities and branding, exterior and interior design, product design and packaging design.  They work with a minimal group of four people, Sue Walsh, Jee-eun Lee, and Molly Watman) and a studio manager Scarlett Rigby.  The company has well-known clients from different places in the US however especially New York as this is Glaser’s hometown.  These companies include The Brooklyn Brewery, JetBlue, Target, Coach, Trump, Eleven Madison Park, Alessi, Juilliard, the Rubin Museum of Art, Theatre for a New Audience, the School of Visual Arts, Bread Alone, ADV Magazine's Philly Gold Awards, Philip Roth and Clay Felker.
  </div>
 
-<div><img class="image" src= "IMAGE OF NY LOGO"></img></div>
+<div><img class="image" src= "http://hideyourarms.com/wp-content/uploads/2009/12/109.jpg "></img></div>
 
 <H2 id="iloveny">I Love NY. </H2>
 <div class="intro">
 One of Glaser’s most iconic pieces is the ‘I love NY’ logo, created in 1977 and even today it’s recognition is vast among the world.  The logo was designed when William S. Doyle, Deputy Commissioner of the New York State Department of Commerce decided to create a campaign to market New York State and to increase it’s popularity within the tourist industry.  Doyle not only hired Glaser as his Graphic Designer but also recruited Wells Rich Greene, a very popular advertising agency founded in 1966 and striving at the time of the New York State promotional campaign. The ideology for the campaign was that New York would receive some attention for a short while following the marketing scheme, Milton Glaser himself estimated a few months however the campaign became much more than that.  Not only did the logo become a recognised symbol for New York itself revolutionising the way tourists viewed the state and the city but it’s iconic style also become heavily used worldwide with replicas all over the world and in London especially.  ‘I love …’ is now a paradigmatic symbol within the global tourist industry.  
   </div>
 
-<div><img class="image" src= "IMAGE OF LONDON T-SHIRT"></img></div>
+<div><img class="image" src= "http://images0.chictopia.com/photos/_Insuffisance_/9955492014/ivory-i-love-london-shirt-red-dotted-tights-sky-blue-jeans-shorts-dark-bro_400.jpg"></img></div>
     
     
 <div class="intro">After the 9/11 terrorist attacks the design became a beacon of hope as Glaser modified the text to read ‘I love NY more than ever’ with a small black circle within the heart to commemorate the World Trade Centre.   This symbol was worn by many in 2001 following the events and became part of a campaign to rebuild the lives of the families of the deceased.</div>
 
-<div><img class="image" src= "IMAGE OF I LOVE NY MORE THAN EVER"></img></div>
+<div><img class="image" src= "http://static.squarespace.com/static/53acde9ae4b061056cf62d52/53df0662e4b02f5ebcba8925/53df070de4b02f5ebcba9793/1285338769000/i-love-ny-more-than-ever3.jpg?format=original"></img></div>
 
 
 <div class="intro">
  Almost 40 years down the line and the logo can still be seen on t-shirts, mugs, gift sets, keyrings, posters and so much more. 
 </div>
 
-<div><img class="image" src= "I LOVE NY T-SHIRT"></img></div>
+<div><img class="image" src= "http://fc00.deviantart.net/fs29/f/2008/176/e/e/I_Love_NY_shirt_by_hip_possible.jpg"></img></div>
 
 
  <div class="intro">The original concept ironically enough was sketched out in the back of a New York taxi and presented by Milton Glaser to Wells Rich Greene who loved the idea and prompted him to further the design.  When the design became world-famous it was donated to the Museum of Modern Art, New York by Doyle himself and dwells there until this day.  Funnily enough this wasn’t his original design.  Two days after his first design he came up with the idea we are so accustomed to today.  </div>
 
-<div><img class="image" src= "IMAGE OF ORIGINAL DESIGN"></img></div>
+<div><img class="image" src= "http://www.miltonglaser.com/thumbs/560x308/files/zc/ilovenysketch-3968.jpg"></img></div>
 
 <H2 id="bobdylan">Bob Dylan </H2>
 
-<div><img class="image" src= "IMAGE OF BOB DYLAN POSTER"></img></div>
+<div><img class="image" src= "
+http://www.101bananas.com/art/dylan6.jpg
+"></img></div>
 
 <div class="intro">
 Another design by Milton Glaser that has been very popular was his 1967 Bob Dylan poster designed for CBS Records and was displayed in Bob Dylan’s ‘Greatest Hits’ LP.  Bob Dylan was an American singer and songwriter especially popular in the 60’s, the age of flower power and bright colour.  This stylised poster became possibly one of the most famous posters of all time. Glaser said the poster had been designed based off Marcel Duchamps self portrait, a similar image of a silhouetted man that had been in his head at the time of the Bob Dylan poster design.   The most iconic piece of the poster, the hair with it’s psychedelic style of vast colour was said to be influenced by Milton’s interest in traditional Islamic art but was also closely related to the bright colourful decade they were in.
 </div>
 
-<div><img class="image" src= "IMAGE OF MARCEL DUCHAUMPS SELF PORTRAIT"></img></div>
+<div><img class="image" src= "http://www.101bananas.com/art/duchamps.jpg
+"></img></div>
 
 
 <div class="intro">It’s ironic that the combination of the influence of a French/American artist’s work and Near Eastern design elements are now viewed so prominently as American due to Glaser’s design.  Glaser also referred to the Art Nouvea art movement recalling that this was the ”influence for the colours and shapes in the picture”.  The poster became global fairly quickly being viewed all over the world even within countries that nobody expected it to reach.
@@ -171,13 +177,15 @@ Despite the viral popularity of the piece Glaser still admitted that if he were 
 In 1954 Glaser  founded Pushpin Studios  along with  his fellow Cooper Union graduates Reynold Ruffins, Seymour Chwast and Edward Sorel.  Joining forces they formed the art studio and named it after a mailing piece.  Famous graphic designers and illustrators such as  John Alcorn, Barry Zaid and Paul Degen also played a role in the company early in their careers.  ‘The Push Pin Almanack’ was designed during their time at Esquire Magazine, a publication designed for men that they were a part of.  The PushPin Almarack was a 15 issue magazine that was originally designed as a four page parody of an old-time almanac (a publication including information such as weather forecasts, dates, tide times and tabular information based around a calendar).  
 </div>
 
-<div><img class="image" src= "IMAGE OF PUSHPIN ALMANACK"></img></div>
+<div><img class="image" src= "https://blogs.princeton.edu/graphicarts/assets_c/2011/10/push%20pin4-thumb-440x285-13386.jpg"></img></div>
 
 <div class="intro">
  They also designed a fortnightly publication ‘The  Push Pin Graphic’, which was a popular  product of the studio.  Founded in 1955 the publication continued to produce issues bi-monthly until 1981.  Limited copies of the publication are still available for just under twenty pounds on the Internet.    
 </div>
 
-<div><img class="image" src= "IMAGE OF PUSHPIN GRAPHIC"></img></div>
+<div><img class="image" src= "http://www.appetiteengineers.com/ae2/wp-content/uploads/2013/08/PUSHPIN.029.png
+
+"></img></div>
 
 <div class="intro">
 In 1956 the studio moved to East 57th Street, New York on the same day that Edward Sorel left the company and Glaser and Chwast continued to direct the company while it’s popularity grew until eventually Glaser left too leaving Chwast as the head director of Push Pin Studios.  The publications began to follow a comical, colourful and playful theme which later became known as ‘The Push pin Way’ and was eventually called ‘The Push Pin Style’, a style that has been celebrated and used throughout the world.  The style became an iconic design method of the 20th century and has travelled to various continents predominantly Europe and made it into the Museum of Decorative Arts, Louvre. 
@@ -185,7 +193,7 @@ In 1956 the studio moved to East 57th Street, New York on the same day that Edwa
 
 <H2 id="nymag">New York Magazine </H2>
 
-<div><img class="image" src= "IMAGE OF NEW YORK MAGAZINE"></img></div>
+<div><img class="image" src= "http://www.miltonglaser.com/thumbs/665x408/files/zc/books_mag_nymag1-9580-1759.jpeg"></img></div>
 
 <div class="intro">
 Milton Glaser was president and design director of the New York Magazine until the late 1970’s, a company and publication that he had co-founded with Clay Felker in 1968 as a competitor to The New Yorker.  It was a rougher-around-the-edges style magazine than The New Yorker that sort of followed the recklessness of the  swinging sixties.  It is said that in 1976 Glaser and Felker were forced out of the company by Rupert Murdoch, an Australian media baron who bought over the magazine.  Milton Glaser has even referred to Murdoch in an interview as his ‘mortal enemy’.  Since then the magazine has had a sucession of editors including Joe Armstrong and John Berendt and is still thriving today.  
@@ -193,7 +201,7 @@ Milton Glaser was president and design director of the New York Magazine until t
 
 <H2 id="sva">The School of Visual Arts </H2>
 
-<div><img class="image" src= "IMAGE OF SVA"></img></div>
+<div><img class="image" src= "http://www.miltonglaser.com/thumbs/560x308/files/zc/sva_silasletter-8446.jpg"></img></div>
 
 <div class="intro">
 Another firm client of Glaser’s was the SVA, New York City from which he owns an honorary doctorate.  Milton worked for the School of Visual Arts for over 50 years and on top of this feat he is still the acting board member since he received this role in 1961.  In Milton’s words the school work helps him focus and prevents senility.  The school itself has built an impeccable reputation as one of the best design schools within the world.  Within his time in the School of Visual Arts Glaser designed many promotional aspects of the school’s brand image.  After September 11th Glaser produced a poster that was distributed by the students of the SVA and became an important piece of the healing process after the tragic events.
