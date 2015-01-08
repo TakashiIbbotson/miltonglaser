@@ -16,10 +16,15 @@
     background-color: black;
 }
     
+
+.header {
+display: block;
+margin: 0px auto}
     
 heading 
     {padding: 50px;}
     
+.break {width: 900px;}
 
 .navigation li 
     
@@ -37,29 +42,7 @@ nav ul li img
     margin: 5px;
     list-style-type: none; }
 
-nav 
-    {border-top: 1px solid #191919;
-    border-bottom: 1px solid #191919;
-    background-color: black;
-    padding: 25px;}
 
-a 
-    {text-decoration: none;
-    color: #feffe1;;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-    font-style:bold;
-    margin: 20px;}
-          
-a:hover 
-    { color: #ADADAD}
-    
-
-
-.navigation
-    {margin: 20px;}
-    
-    
 div {color: white;
     padding: 10px 120px;
     line-height: 1.5em;}
@@ -71,7 +54,42 @@ h1 {color: #d88e37;
     font-size: 20px;
     letter-spacing: 5px}
     
-h2 {color: #668a8a;
+.miltonglaserinc{color: #668a8a;
+    padding: 40px;
+    font-style: italic ;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 5px}
+
+.iloveny{color: #80392F;
+    padding: 40px;
+    font-style: italic ;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 5px}
+
+.bob{color: #6F79BC;
+    padding: 40px;
+    font-style: italic ;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 5px}
+
+.pushpinstudios{color: #547851;
+    padding: 40px;
+    font-style: italic ;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 5px}
+
+.nymag{color: #E3BD73;
+    padding: 40px;
+    font-style: italic ;
+    text-align: center;
+    font-size: 20px;
+    letter-spacing: 5px}
+
+.sva{color: #6C5143;
     padding: 40px;
     font-style: italic ;
     text-align: center;
@@ -84,30 +102,31 @@ margin: 10px auto;}
 
 tr {margin: 20px;}
 
-.break {margin: 0px;}
+.break {display: block;
+margin: 5px auto;
+width: 1600px;}
 
 .image {width: 300px;
 margin: 30px auto;}
     
+blockquote {padding: 50px;
+text-indent: 50px;
+color: #AAA;
+font-style: italic;}
+
     </style>
     
 <body>   
     
 
-<header><img src ="http://imgur.com/rA6w7cm.jpg"; width: 300px;></img></header>
+<header "><img class="header" src ="http://imgur.com/rA6w7cm.jpg"; width: 300px;></img></header>
 
-<img src="http://i.imgur.com/YQoSt7D.jpg"></img>
-<table border-top=0; style="width:100%" margin: 20px;>
-  <tr>
-    <td><a href="#intro"><img src="http://i.imgur.com/Ym5BCST.jpg"               onmouseover="this.src='http://i.imgur.com/Aon6hSH.jpg'" onmouseout="this.src='http://i.imgur.com/Ym5BCST.jpg'"/></a></li></td>
-    <td><a href="#miltonglaserinc"><img src="http://i.imgur.com/jIEmxtJ.jpg"               onmouseover="this.src='http://i.imgur.com/2WAT7YL.jpg'" onmouseout="this.src='http://i.imgur.com/jIEmxtJ.jpg'"/></a></td> 
-  </tr>
-</table>
-<img src="http://i.imgur.com/YQoSt7D.jpg"></img>
+<img class="break" src="http://i.imgur.com/YQoSt7D.jpg"></img>
+
 
 <div><img class="image" src= "http://i.imgur.com/nYPsVzS.jpg"></img></div>
 
-<H1 id="intro">Introduction to Milton Glaser </H1>
+<H1 class="intro">Introduction to Milton Glaser </H1>
 <div class="intro">Milton Glaser is an American Graphic Designer who was born in New York City in June of 1929.  His work revolutionised the way Graphic Design was viewed and he is one of the most celebrated Graphic Designers in the US seen as an apotheosis of American design during his time.  Many of his designs are globally known and recognised to even those who do not follow art.  Not only was Glaser nominated for the Lifetime Achievement award of the Cooper Hewitt National Design Museum in 2004 and the Fulbright Association award in 2011 but he was also the first Graphic Design to receive the National Medal of Arts award in 2009.  His vastly celebrated art has become iconic making him one of the most famous Graphic Designers of the 20th century.  Milton Glaser’s fascination with art, design and visual communication began when he was 5 years old. He told ABC News, 
 
 <blockquote><strong>“My cousin Saul came to the house one day. … He had a brown paper bag and he asked me if I had wanted to see a horse. And I said yes. He went into his bag and pulled out a pencil and drew a horse on the side of the bag, and I realized it was capable of a human being to create life. At that moment … I decided that’s what I was going to spend my time doing.” </strong></blockquote>
@@ -116,14 +135,14 @@ A modest man, in an interview with New York Magazine he described his work as si
      
 <div><img class="image" src= "http://i.imgur.com/YX79pHj.jpg"></img></div>
 
-<H2 id="miltonglaserinc">Milton Glaser Inc. </H2>
+<H2 class="miltonglaserinc">Milton Glaser Inc. </H2>
 <div class="intro">
 In 1974 Glaser founded Milton Glaser, Incorporated known as Milton Glaser, Inc, a graphic design company who are still producing work for a number of highly established corporations over a variety of design disciplines including comporate identities and branding, exterior and interior design, product design and packaging design.  They work with a minimal group of four people, Sue Walsh, Jee-eun Lee, and Molly Watman) and a studio manager Scarlett Rigby.  The company has well-known clients from different places in the US however especially New York as this is Glaser’s hometown.  These companies include The Brooklyn Brewery, JetBlue, Target, Coach, Trump, Eleven Madison Park, Alessi, Juilliard, the Rubin Museum of Art, Theatre for a New Audience, the School of Visual Arts, Bread Alone, ADV Magazine's Philly Gold Awards, Philip Roth and Clay Felker.
  </div>
 
 <div><img class="image" src= "http://hideyourarms.com/wp-content/uploads/2009/12/109.jpg "></img></div>
 
-<H2 id="iloveny">I Love NY. </H2>
+<H2 class="iloveny">I Love NY. </H2>
 <div class="intro">
 One of Glaser’s most iconic pieces is the ‘I love NY’ logo, created in 1977 and even today it’s recognition is vast among the world.  The logo was designed when William S. Doyle, Deputy Commissioner of the New York State Department of Commerce decided to create a campaign to market New York State and to increase it’s popularity within the tourist industry.  Doyle not only hired Glaser as his Graphic Designer but also recruited Wells Rich Greene, a very popular advertising agency founded in 1966 and striving at the time of the New York State promotional campaign. The ideology for the campaign was that New York would receive some attention for a short while following the marketing scheme, Milton Glaser himself estimated a few months however the campaign became much more than that.  Not only did the logo become a recognised symbol for New York itself revolutionising the way tourists viewed the state and the city but it’s iconic style also become heavily used worldwide with replicas all over the world and in London especially.  ‘I love …’ is now a paradigmatic symbol within the global tourist industry.  
   </div>
@@ -147,7 +166,7 @@ One of Glaser’s most iconic pieces is the ‘I love NY’ logo, created in 197
 
 <div><img class="image" src= "http://www.miltonglaser.com/thumbs/560x308/files/zc/ilovenysketch-3968.jpg"></img></div>
 
-<H2 id="bobdylan">Bob Dylan </H2>
+<H2 class="bob">Bob Dylan </H2>
 
 <div><img class="image" src= "
 http://www.101bananas.com/art/dylan6.jpg
@@ -171,7 +190,7 @@ Despite the viral popularity of the piece Glaser still admitted that if he were 
 
 </div>
 
-<H2 id="puspin">Pushpin Studios </H2>
+<H2 class="pushpinstudios">Pushpin Studios </H2>
 
 <div class="intro">
 In 1954 Glaser  founded Pushpin Studios  along with  his fellow Cooper Union graduates Reynold Ruffins, Seymour Chwast and Edward Sorel.  Joining forces they formed the art studio and named it after a mailing piece.  Famous graphic designers and illustrators such as  John Alcorn, Barry Zaid and Paul Degen also played a role in the company early in their careers.  ‘The Push Pin Almanack’ was designed during their time at Esquire Magazine, a publication designed for men that they were a part of.  The PushPin Almarack was a 15 issue magazine that was originally designed as a four page parody of an old-time almanac (a publication including information such as weather forecasts, dates, tide times and tabular information based around a calendar).  
@@ -191,7 +210,7 @@ In 1954 Glaser  founded Pushpin Studios  along with  his fellow Cooper Union gra
 In 1956 the studio moved to East 57th Street, New York on the same day that Edward Sorel left the company and Glaser and Chwast continued to direct the company while it’s popularity grew until eventually Glaser left too leaving Chwast as the head director of Push Pin Studios.  The publications began to follow a comical, colourful and playful theme which later became known as ‘The Push pin Way’ and was eventually called ‘The Push Pin Style’, a style that has been celebrated and used throughout the world.  The style became an iconic design method of the 20th century and has travelled to various continents predominantly Europe and made it into the Museum of Decorative Arts, Louvre. 
 </div>
 
-<H2 id="nymag">New York Magazine </H2>
+<H2 class="nymag">New York Magazine </H2>
 
 <div><img class="image" src= "http://www.miltonglaser.com/thumbs/665x408/files/zc/books_mag_nymag1-9580-1759.jpeg"></img></div>
 
@@ -199,7 +218,7 @@ In 1956 the studio moved to East 57th Street, New York on the same day that Edwa
 Milton Glaser was president and design director of the New York Magazine until the late 1970’s, a company and publication that he had co-founded with Clay Felker in 1968 as a competitor to The New Yorker.  It was a rougher-around-the-edges style magazine than The New Yorker that sort of followed the recklessness of the  swinging sixties.  It is said that in 1976 Glaser and Felker were forced out of the company by Rupert Murdoch, an Australian media baron who bought over the magazine.  Milton Glaser has even referred to Murdoch in an interview as his ‘mortal enemy’.  Since then the magazine has had a sucession of editors including Joe Armstrong and John Berendt and is still thriving today.  
 </div>
 
-<H2 id="sva">The School of Visual Arts </H2>
+<H2 class="sva">The School of Visual Arts </H2>
 
 <div><img class="image" src= "http://www.miltonglaser.com/thumbs/560x308/files/zc/sva_silasletter-8446.jpg"></img></div>
 
